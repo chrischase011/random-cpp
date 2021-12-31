@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\DICE205\source\repos\Training\Training\main.cpp(17,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Quadratic.cpp
+  Training.cpp
+  wordshit.cpp
+  Generating Code...
+  Training.vcxproj -> C:\Users\DICE205\source\repos\Training\x64\Debug\Training.exe
